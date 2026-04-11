@@ -52,23 +52,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\Shlok\AppData\Local\Temp\History\v1.~(1).SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=COYFIMMJ
-
-[Document2]
 DocumentPath=v1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -85,7 +68,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEJTSQKD
 
-[Document3]
+[Document2]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,7 +85,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWABAUEF
 
-[Document4]
+[Document3]
 DocumentPath=UHF_Deployment.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,7 +102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=D:\STeRG-Passives-Standard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUYUPFIJ
 
-[Document6]
+[Document5]
 DocumentPath=..\..\..\..\Shlok\OneDrive\Dokumente\AltiumLL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document7]
+[Document6]
 DocumentPath=D:\STeRG-ICs-Standard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJQKJGJA
 
-[Document8]
+[Document7]
 DocumentPath=D:\STeRG-ICs-Standard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNRSPXBA
 
-[Document9]
+[Document8]
 DocumentPath=D:\STeRG-Passives-Standard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QUEMXFBU
 
-[Document10]
+[Document9]
 DocumentPath=..\..\..\..\Shlok\OneDrive\Dokumente\AltiumLL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
